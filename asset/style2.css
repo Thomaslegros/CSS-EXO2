@@ -1,0 +1,14 @@
+h1{
+    font-size: medium;
+    font-weight: bold;
+    text-align: center;
+}
+.rouge{
+    color: red;
+}
+.vert{
+    color: green;
+}
+#italic{
+    font-style: italic;
+}
